@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: toolkit
+
+threadpool:
+  size: 10
